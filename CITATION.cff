@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite both the article and repository."
+
+title: "Data and code supporting: Above Water Deterrents Reduce Auk Bycatch in Gillnet Fisheries off the United Kingdom"
+
+type: software
+
+authors:
+  - family-names: Horton
+    given-names: Thomas W.
+    email: t.horton@exeter.ac.uk
+    affiliation: University of Exeter
+
+repository-code: https://github.com/tomwhorton/Above-Water-Deterrents-Reduce-Auk-Bycatch-in-Gillnet-Fisheries-off-the-United-Kingdom
+
+keywords:
+  - seabird bycatch
+  - auk
+  - fisheries
+  - gillnet
+  - bycatch mitigation
+  - conservation
+
+license: MIT
+
+preferred-citation:
+  type: article
+  title: "Above Water Deterrents Reduce Auk Bycatch in Gillnet Fisheries off the United Kingdom"
+  journal: "Conservation Letters"
+  year: 2026
+  doi: 10.1111/con4.70082
