@@ -1,0 +1,34 @@
+Species Code,Common Name,Scientific Name,Group,Functional,Family
+HBW,Razorbill,Alca torda,Bird,WC,Alcidae
+UQT,Common Guillemot,Uria aalge,Bird,WC,Alcidae
+HBO,Black Guillemot,Cepphus grylle,Bird,WC,Alcidae
+MVB,Gannet,Morus bassanus,Bird,WC,Sulidae
+ISW,Shag,Phalacrocorax aristotelis,Bird,WC,Phalacrocoracidae
+ISY,Cormorant,Phalacrocorax carbo,Bird,WC,Phalacrocoracidae
+ITV,Shag/Cormorant Species,Phalacrocorax spp,Bird,WC,Phalacrocoracidae
+QDV,Kittiwake,Rissa tridactyla,Bird,S,Laridae
+LHZ,Herring gull,Larus argentatus,Bird,S,Laridae
+LOW,Lesser black-backed gull,Larus fuscus,Bird,S,Laridae
+LVU,Great black-backed gull,Larus marinus,Bird,S,Laridae
+SEC,Common Seal,Phoca vitulina,Seal,,
+SEG,Grey Seal,Halichoerus grypus,Seal,,
+DCO,Common Dolphin,Delphinus delphis,Ceta,,
+DBO,Bottlenose Dolphin,Tursiops truncatis,Ceta,,
+PHR,Harbour Porpoise,Phocena phocena,Ceta,,
+BWE,Great Northern Diver,Gavia immer,Bird,WC,Gaviidae
+UNK,Unknown,"See the comments column to determin species, eg GND greater northern diver",UNK,,
+ODN,Unidentified Toothed Whales Species ,Odontoceti,Ceta,,
+ZPX,Unidentified Seal Species,Phocidae,Seal,,
+PQW,Unidentified Shearwater Species,Puffinus spp,Bird,WC,Procellariidae
+POL,Pollack,Pollachius pollachius,Fish,,
+MAC,Mackerel,Scomber scombrus,Fish,,
+MNZ,Monkfish species,Lophius spp,Fish,,
+MUR,Red Mullet,Mullus surmuletus,Fish,,
+100,Anything,Anything,ANY,,
+BSS,Bass,Dicentrarchus labrax,Fish,,
+SCR,Spider Crab,Maja squinado,Crus,,
+SKX,Skates and Rays,Raja spp,Rays,,
+SOL,Sole,Solea solea,Fish,,
+TUR,Turbot,Scopthalmus (Psetta) maximus,Fish,,
+COD,Cod,Gadus morhua,Fish,,
+PLE,Plaice,Pleuronectes platessa,Fish,,

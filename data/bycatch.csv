@@ -1,0 +1,192 @@
+vessel_id,haul_trip_id,net_id,net_description,common_name,group,family,condition,min_m_treat,min_m_buoys
+V10,V10_T06,CONTROL_6,CONTROL,Razorbill,Bird,Alcidae,D,NA,309.6
+V10,V10_T06,CONTROL_6,CONTROL,Razorbill,Bird,Alcidae,D,NA,228.7
+V10,V10_T07,LEB_7,LEB,Razorbill,Bird,Alcidae,D,61.3,61.3
+V10,V10_T08,KITE_8,KITE,Razorbill,Bird,Alcidae,D,39.6,39.6
+V10,V10_T09,CONTROL_9,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,287.3
+V10,V10_T09,KITE_9,KITE,Shag,Bird,Phalacrocoracidae,D,43.2,43.2
+V10,V10_T09,LEB_9,LEB,Cormorant,Bird,Phalacrocoracidae,D,35.3,35.3
+V10,V10_T12,KITE_12,KITE,Shag,Bird,Phalacrocoracidae,D,16.4,16.4
+V10,V10_T13,LEB_13,LEB,Common Guillemot,Bird,Alcidae,D,39.9,39.9
+V10,V10_T14,CONTROL_14,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,155.8
+V10,V10_T14,LEB_14,LEB,Unidentified Seal Species,Seal,NA,A,42,42
+V10,V10_T26,CONTROL_26,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,161.1
+V12,V12_T33,CONTROL_78,CONTROL,Shag,Bird,Phalacrocoracidae,A,NA,787.9
+V12,V12_T39,CONTROL_84,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,140.2
+V12,V12_T39,KITE_84,KITE,Common Guillemot,Bird,Alcidae,D,30.6,30.6
+V12,V12_T42,CONTROL_87,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,300.6
+V2,V2_T06,LEB_112,LEB,Common Dolphin,Ceta,NA,D,31.9,31.9
+V2,V2_T06,LEB_112,LEB,Common Dolphin,Ceta,NA,D,38.7,38.7
+V2,V2_T06,LEB_112,LEB,Common Dolphin,Ceta,NA,D,28.8,28.8
+V2,V2_T10,CONTROL_116,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,212.6
+V2,V2_T14,KITE_120,KITE,Razorbill,Bird,Alcidae,D,9.3,9.3
+V2,V2_T15,CONTROL_121,CONTROL,Razorbill,Bird,Alcidae,D,NA,544.2
+V2,V2_T15,CONTROL_121,CONTROL,Razorbill,Bird,Alcidae,D,NA,521.6
+V2,V2_T17,CONTROL_123,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,456.7
+V2,V2_T17,CONTROL_123,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,396.1
+V2,V2_T17,CONTROL_123,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,339.7
+V2,V2_T17,KITE_123,KITE,Grey Seal,Seal,NA,D,53.5,53.5
+V2,V2_T17,LEB_123,LEB,Common Guillemot,Bird,Alcidae,D,43.2,43.2
+V2,V2_T18,CONTROL_124,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,532.8
+V2,V2_T18,KITE_124,KITE,Common Guillemot,Bird,Alcidae,A,40.4,40.4
+V2,V2_T18,KITE_124,KITE,Common Guillemot,Bird,Alcidae,A,36.1,36.1
+V2,V2_T21,LEB_126,LEB,Gannet,Bird,Sulidae,D,24.8,24.8
+V3,V3_T06,LEB_132,LEB,Razorbill,Bird,Alcidae,D,47,47
+V4,V4_T05,CONTROL_137,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,207.4
+V4,V4_T06,CONTROL_138,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,1824
+V4,V4_T06,CONTROL_138,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,1824
+V4,V4_T06,CONTROL_138,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,1858.6
+V4,V4_T06,CONTROL_138,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,1882.8
+V4,V4_T06,KITE_138,KITE,Common Dolphin,Ceta,NA,D,49.3,49.3
+V4,V4_T06,KITE_138,KITE,Common Guillemot,Bird,Alcidae,D,77,77
+V4,V4_T06,LEB_138,LEB,Shag,Bird,Phalacrocoracidae,D,62.8,62.8
+V4,V4_T06,LEB_138,LEB,Common Seal,Seal,NA,D,62,62
+V4,V4_T06,LEB_138,LEB,Common Guillemot,Bird,Alcidae,D,39.1,39.1
+V4,V4_T06,LEB_138,LEB,Common Guillemot,Bird,Alcidae,D,41.7,41.7
+V4,V4_T10,KITE_140,KITE,Common Dolphin,Ceta,NA,D,26.7,26.7
+V4,V4_T10,KITE_140,KITE,Common Dolphin,Ceta,NA,D,44.9,44.9
+V4,V4_T14,CONTROL_143,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,4364.8
+V4,V4_T14,CONTROL_143,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,4378.7
+V4,V4_T16,CONTROL_144,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,293
+V4,V4_T16,CONTROL_144,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,292.4
+V4,V4_T16,CONTROL_144,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,289.7
+V4,V4_T16,CONTROL_144,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,287.9
+V4,V4_T16,KITE_144,KITE,Common Guillemot,Bird,Alcidae,D,21,21
+V4,V4_T16,KITE_144,KITE,Common Guillemot,Bird,Alcidae,D,38.6,38.6
+V4,V4_T16,LEB_144,LEB,Common Guillemot,Bird,Alcidae,D,21.9,21.9
+V4,V4_T16,LEB_144,LEB,Common Guillemot,Bird,Alcidae,D,24.6,24.6
+V4,V4_T16,LEB_144,LEB,Common Guillemot,Bird,Alcidae,D,27.1,27.1
+V4,V4_T17,LEB_145,LEB,Cormorant,Bird,Phalacrocoracidae,D,46.9,46.9
+V4,V4_T19a,CONTROL_146,CONTROL,Great Northern Diver,Bird,Gaviidae,D,NA,288.1
+V4,V4_T19a,CONTROL_146,CONTROL,Razorbill,Bird,Alcidae,D,NA,205.5
+V4,V4_T19a,CONTROL_146,CONTROL,Razorbill,Bird,Alcidae,D,NA,208.3
+V4,V4_T19a,CONTROL_146,CONTROL,Razorbill,Bird,Alcidae,D,NA,209.7
+V4,V4_T19a,CONTROL_146,CONTROL,Razorbill,Bird,Alcidae,D,NA,213.2
+V4,V4_T19a,CONTROL_146,CONTROL,Razorbill,Bird,Alcidae,D,NA,229.5
+V4,V4_T19a,CONTROL_146,CONTROL,Razorbill,Bird,Alcidae,D,NA,230.7
+V4,V4_T19a,CONTROL_146,CONTROL,Razorbill,Bird,Alcidae,D,NA,260.8
+V4,V4_T19a,CONTROL_146,CONTROL,Razorbill,Bird,Alcidae,D,NA,264.1
+V4,V4_T19a,CONTROL_146,CONTROL,Razorbill,Bird,Alcidae,D,NA,266
+V4,V4_T19a,CONTROL_146,CONTROL,Razorbill,Bird,Alcidae,D,NA,266
+V4,V4_T19a,CONTROL_146,CONTROL,Razorbill,Bird,Alcidae,D,NA,268.1
+V4,V4_T19a,CONTROL_146,CONTROL,Razorbill,Bird,Alcidae,D,NA,280.1
+V4,V4_T19a,CONTROL_146,CONTROL,Razorbill,Bird,Alcidae,D,NA,291.5
+V4,V4_T19a,CONTROL_146,CONTROL,Razorbill,Bird,Alcidae,D,NA,312
+V4,V4_T19a,CONTROL_146,CONTROL,Razorbill,Bird,Alcidae,D,NA,329.4
+V4,V4_T19a,CONTROL_146,CONTROL,Razorbill,Bird,Alcidae,D,NA,351.7
+V4,V4_T19a,CONTROL_146,CONTROL,Unidentified Toothed Whales Species,Ceta,NA,D,NA,312.7
+V4,V4_T19a,CONTROL_146,CONTROL,Harbour Porpoise,Ceta,NA,D,NA,218.4
+V4,V4_T19a,CONTROL_146,CONTROL,Grey Seal,Seal,NA,D,NA,327.7
+V4,V4_T19a,CONTROL_146,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,248.9
+V4,V4_T19a,CONTROL_146,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,322.4
+V4,V4_T19a,LEB_146,LEB,Razorbill,Bird,Alcidae,D,65.7,65.7
+V4,V4_T19a,LEB_146,LEB,Razorbill,Bird,Alcidae,D,68.8,68.8
+V4,V4_T19a,LEB_146,LEB,Razorbill,Bird,Alcidae,D,70.5,70.5
+V4,V4_T19a,LEB_146,LEB,Razorbill,Bird,Alcidae,D,32,32
+V4,V4_T19a,LEB_146,LEB,Grey Seal,Seal,NA,D,64.3,64.3
+V4,V4_T19a,LEB_146,LEB,Common Guillemot,Bird,Alcidae,D,40.7,40.7
+V4,V4_T19a,LEB_146,LEB,Common Guillemot,Bird,Alcidae,D,69.1,69.1
+V4,V4_T19b,KITE_147,KITE,Common Guillemot,Bird,Alcidae,D,59.5,59.5
+V4,V4_T19b,KITE_147,KITE,Common Guillemot,Bird,Alcidae,D,54.8,54.8
+V4,V4_T20,CONTROL_148,CONTROL,Razorbill,Bird,Alcidae,D,NA,1360.1
+V4,V4_T20,CONTROL_148,CONTROL,Razorbill,Bird,Alcidae,D,NA,1376.1
+V4,V4_T20,CONTROL_148,CONTROL,Razorbill,Bird,Alcidae,D,NA,1376.1
+V4,V4_T20,CONTROL_148,CONTROL,Razorbill,Bird,Alcidae,D,NA,1376.6
+V4,V4_T20,CONTROL_148,CONTROL,Razorbill,Bird,Alcidae,D,NA,1376.6
+V4,V4_T20,CONTROL_148,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,1376.6
+V4,V4_T20,CONTROL_148,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,1386.5
+V4,V4_T20,KITE_148,KITE,Razorbill,Bird,Alcidae,D,50.2,50.2
+V4,V4_T20,KITE_148,KITE,Razorbill,Bird,Alcidae,D,71.4,71.4
+V4,V4_T20,KITE_148,KITE,Razorbill,Bird,Alcidae,D,98.3,98.3
+V4,V4_T20,KITE_148,KITE,Razorbill,Bird,Alcidae,D,103.5,103.5
+V4,V4_T20,KITE_148,KITE,Razorbill,Bird,Alcidae,D,113.6,113.6
+V4,V4_T20,KITE_148,KITE,Razorbill,Bird,Alcidae,D,113.6,113.6
+V4,V4_T20,KITE_148,KITE,Razorbill,Bird,Alcidae,D,113.9,113.9
+V4,V4_T20,KITE_148,KITE,Razorbill,Bird,Alcidae,D,113.8,113.8
+V4,V4_T20,KITE_148,KITE,Razorbill,Bird,Alcidae,D,87.2,87.2
+V4,V4_T20,KITE_148,KITE,Razorbill,Bird,Alcidae,D,47.7,47.7
+V4,V4_T20,KITE_148,KITE,Razorbill,Bird,Alcidae,D,44.6,44.6
+V4,V4_T20,LEB_148,LEB,Razorbill,Bird,Alcidae,D,76.6,76.6
+V4,V4_T21,CONTROL_149,CONTROL,Razorbill,Bird,Alcidae,D,NA,688.2
+V4,V4_T21,CONTROL_149,CONTROL,Razorbill,Bird,Alcidae,D,NA,694.3
+V4,V4_T21,CONTROL_149,CONTROL,Razorbill,Bird,Alcidae,D,NA,697.1
+V4,V4_T21,CONTROL_149,CONTROL,Razorbill,Bird,Alcidae,D,NA,720
+V4,V4_T21,CONTROL_149,CONTROL,Razorbill,Bird,Alcidae,D,NA,738.2
+V4,V4_T21,CONTROL_149,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,637.1
+V4,V4_T21,CONTROL_149,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,637.1
+V4,V4_T21,CONTROL_149,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,637.1
+V4,V4_T21,CONTROL_149,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,643.7
+V4,V4_T21,CONTROL_149,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,688.2
+V4,V4_T21,CONTROL_149,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,697.1
+V4,V4_T21,CONTROL_149,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,703
+V4,V4_T21,CONTROL_149,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,708
+V4,V4_T21,CONTROL_149,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,708
+V4,V4_T21,CONTROL_149,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,720
+V4,V4_T21,CONTROL_149,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,729.4
+V4,V4_T21,LEB_149,LEB,Razorbill,Bird,Alcidae,D,16.8,16.8
+V4,V4_T21,LEB_149,LEB,Razorbill,Bird,Alcidae,D,16.8,16.8
+V4,V4_T21,LEB_149,LEB,Razorbill,Bird,Alcidae,D,16.7,16.7
+V4,V4_T21,LEB_149,LEB,Razorbill,Bird,Alcidae,D,26.2,26.2
+V4,V4_T21,LEB_149,LEB,Common Guillemot,Bird,Alcidae,D,9.2,9.2
+V4,V4_T23,CONTROL_150,CONTROL,Razorbill,Bird,Alcidae,D,NA,205.2
+V4,V4_T23,LEB_150,LEB,Razorbill,Bird,Alcidae,D,24.3,24.3
+V4,V4_T23,LEB_150,LEB,Grey Seal,Seal,NA,D,32.4,32.4
+V4,V4_T23,LEB_150,LEB,Grey Seal,Seal,NA,D,34,34
+V4,V4_T23,LEB_150,LEB,Common Guillemot,Bird,Alcidae,D,19.7,19.7
+V4,V4_T23,LEB_150,LEB,Common Guillemot,Bird,Alcidae,D,26.3,26.3
+V4,V4_T29,CONTROL_154,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,363.6
+V4,V4_T31,CONTROL_155,CONTROL,Unidentified Toothed Whales Species,Ceta,NA,D,NA,79.9
+V4,V4_T31,CONTROL_155,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,85.1
+V4,V4_T31,KITE_155,KITE,Shag,Bird,Phalacrocoracidae,D,42.8,42.8
+V4,V4_T31,KITE_155,KITE,Common Guillemot,Bird,Alcidae,D,38.9,38.9
+V4,V4_T31,KITE_155,KITE,Common Guillemot,Bird,Alcidae,D,38.9,38.9
+V4,V4_T31,LEB_155,LEB,Common Guillemot,Bird,Alcidae,D,12.8,12.8
+V4,V4_T36,CONTROL_160,CONTROL,Harbour Porpoise,Ceta,NA,D,NA,111
+V4,V4_T47,CONTROL_171,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,1753.8
+V4,V4_T47,CONTROL_171,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,1751.7
+V4,V4_T47,CONTROL_171,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,1750.2
+V4,V4_T47,CONTROL_171,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,1745.2
+V4,V4_T47,CONTROL_171,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,1726
+V4,V4_T48,LEB_172,LEB,Common Guillemot,Bird,Alcidae,D,34.5,34.5
+V5,V5_T05,CONTROL_178,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,843.1
+V5,V5_T07,CONTROL_179,CONTROL,Shag/Cormorant Species,Bird,Phalacrocoracidae,D,NA,580.1
+V5,V5_T07,CONTROL_179,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,684.5
+V5,V5_T07,LEB_179,LEB,Common Seal,Seal,NA,D,67.9,67.9
+V5,V5_T07,LEB_179,LEB,Grey Seal,Seal,NA,D,55.6,55.6
+V5,V5_T07,LEB_179,LEB,Grey Seal,Seal,NA,D,56.7,56.7
+V5,V5_T09,CONTROL_180,CONTROL,Common Seal,Seal,NA,D,NA,607.6
+V5,V5_T09,CONTROL_180,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,605.9
+V5,V5_T15,CONTROL_183,CONTROL,Common Seal,Seal,NA,D,NA,704.7
+V5,V5_T15,LEB_183,LEB,Common Seal,Seal,NA,D,57,57
+V5,V5_T15,LEB_183,LEB,Common Seal,Seal,NA,D,34.4,34.4
+V5,V5_T16,KITE_184,KITE,Grey Seal,Seal,NA,D,22.7,22.7
+V5,V5_T16,LEB_184,LEB,Grey Seal,Seal,NA,D,33.3,33.3
+V5,V5_T17,LEB_185,LEB,Razorbill,Bird,Alcidae,D,52.6,52.6
+V5,V5_T20,CONTROL_187,CONTROL,Grey Seal,Seal,NA,D,NA,633.5
+V8,V8_T07,LEB_198,LEB,Great Northern Diver,Bird,Gaviidae,D,10.1,10.1
+V8,V8_T54,KITE_242,KITE,Cormorant,Bird,Phalacrocoracidae,D,2.5,2.5
+V8,V8_T64,LEB_252,LEB,Cormorant,Bird,Phalacrocoracidae,D,18.9,18.9
+V8,V8_T73,CONTROL_260,CONTROL,Shag/Cormorant Species,Bird,Phalacrocoracidae,D,NA,204.9
+V8,V8_T73,CONTROL_260,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,252.6
+V8,V8_T73,CONTROL_260,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,252.6
+V8,V8_T73,CONTROL_260,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,250.6
+V8,V8_T73,CONTROL_260,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,248.8
+V8,V8_T73,CONTROL_260,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,246.5
+V8,V8_T73,CONTROL_260,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,243.6
+V8,V8_T73,CONTROL_260,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,246.5
+V8,V8_T73,CONTROL_260,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,243.6
+V8,V8_T74,CONTROL_261,CONTROL,Common Guillemot,Bird,Alcidae,D,NA,202.1
+V8,V8_T84,KITE_266,KITE,Great Northern Diver,Bird,Gaviidae,D,47.5,47.5
+V8,V8_T87,LEB_269,LEB,Common Guillemot,Bird,Alcidae,D,14.7,14.7
+V9,V9_T02,LEB_277,LEB,Common Seal,Seal,NA,D,48.5,48.5
+V9,V9_T02,LEB_277,LEB,Common Seal,Seal,NA,D,13.7,13.7
+V9,V9_T03,LEB_278,LEB,Common Dolphin,Ceta,NA,D,26.4,26.4
+V9,V9_T08,LEB_282,LEB,Common Dolphin,Ceta,NA,D,44.3,44.3
+V9,V9_T09,CONTROL_283,CONTROL,Unidentified Seal Species,Seal,NA,D,NA,380.5
+V9,V9_T09,CONTROL_283,CONTROL,Unidentified Seal Species,Seal,NA,D,NA,331.1
+V9,V9_T09,KITE_283,KITE,Unidentified Seal Species,Seal,NA,D,43.7,43.7
+V9,V9_T17,KITE_288,KITE,Common Guillemot,Bird,Alcidae,D,31.8,31.8
+V9,V9_T21,KITE_291,KITE,Common Seal,Seal,NA,D,23.9,23.9
+V9,V9_T25,LEB_294,LEB,Unidentified Seal Species,Seal,NA,D,5.1,5.1
+V9,V9_T27,LEB_296,LEB,Unidentified Seal Species,Seal,NA,D,22.6,22.6
+V9,V9_T57,LEB_325,LEB,Common Dolphin,Ceta,NA,D,19.2,19.2

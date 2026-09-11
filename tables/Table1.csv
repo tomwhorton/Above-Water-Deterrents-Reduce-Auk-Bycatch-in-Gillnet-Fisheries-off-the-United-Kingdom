@@ -1,0 +1,4 @@
+contrast,odds.ratio,SE,z.ratio,p.value,reduction
+Ctrl. / Kite,-1.229,0.12,-2.987,0.008,71
+Ctrl. / LEB,-0.902,0.149,-2.452,0.038,59
+Kite / LEB,0.327,0.653,0.695,0.766,NA

@@ -1,0 +1,4 @@
+contrast,ratio,SE,z.ratio,p.value,reduction
+Ctrl. / Kite,2.649,1.581,1.632,0.232,62
+Ctrl. / LEB,3.129,1.21,2.951,0.009,68
+Kite / LEB,1.182,0.799,0.247,0.967,NA
