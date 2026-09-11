@@ -87,3 +87,11 @@ University of Exeter
 Penryn, Cornwall, UK
 
 Email: t.horton@exeter.ac.uk
+
+## Licence
+
+Code in this repository is released under the MIT License.
+
+The associated article is published under a Creative Commons Attribution (CC BY) licence:
+
+https://doi.org/10.1111/con4.70082
